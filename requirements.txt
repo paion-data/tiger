@@ -1,0 +1,10 @@
+ffmpeg
+ffmpeg_python
+numpy
+pytubefix
+requests
+streamlit
+streamlit_lottie
+torch
+transformers
+openai-whisper
