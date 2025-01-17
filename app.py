@@ -233,4 +233,4 @@ def main():
 if __name__ == "__main__":
     main()
     st.markdown(
-        "###### Made with :heart: by [@QubitPi](https://github.com/QubitPi) [![this is an image link](https://i.imgur.com/thJhzOO.png)](https://buymeacoffee.com/qubitpi)")
+        "###### Made with :heart: by [Paion Data](https://paion-data.com) [![this is an image link](https://i.imgur.com/thJhzOO.png)](https://buymeacoffee.com/qubitpi)")
