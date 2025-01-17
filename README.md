@@ -77,9 +77,9 @@ The use and distribution terms for [tiger]() are covered by the [Apache License,
 [Apache License, Version 2.0]: https://www.apache.org/licenses/LICENSE-2.0
 
 [Hugging Face space badge]: https://img.shields.io/badge/Hugging%20Face%20Space-tiger-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=6B7280
-[Hugging Face space URL]: https://huggingface.co/spaces/QubitPi/tiger
+[Hugging Face space URL]: https://huggingface.co/spaces/paion-data/tiger
 
-[Hugging Face sync status badge]: https://img.shields.io/github/actions/workflow/status/QubitPi/tiger/ci-cd.yaml?branch=master&style=for-the-badge&logo=github&logoColor=white&label=Hugging%20Face%20Sync%20Up
-[Hugging Face sync status URL]: https://github.com/QubitPi/tiger/actions/workflows/ci-cd.yaml
+[Hugging Face sync status badge]: https://img.shields.io/github/actions/workflow/status/paion-data/tiger/ci-cd.yaml?branch=master&style=for-the-badge&logo=github&logoColor=white&label=Hugging%20Face%20Sync%20Up
+[Hugging Face sync status URL]: https://github.com/paion-data/tiger/actions/workflows/ci-cd.yaml
 
-[Project Tiger on Hugging Face]: https://huggingface.co/spaces/QubitPi/tiger
+[Project Tiger on Hugging Face]: https://huggingface.co/spaces/paion-data/tiger
